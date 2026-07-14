@@ -32,12 +32,36 @@
   {
     "icon": "Fire",
     "name": "今日熱榜",
-    "link": "https://hot.imsyy.top/"
+    "link": "https://hot.imsyy.top"
   },
   {
     "icon": "LaptopCode",
     "name": "監測",
-    "link": "https://cloud.688689.xyz/"
+    "link": "https://cloud.688689.xyz"
   },
-    
+    {
+    "icon": "LaptopCode",
+    "name": "Radarr",
+    "link": "http://100.110.17.54:7878"
+  },
+      {
+    "icon": "LaptopCode",
+    "name": "Sonarr",
+    "link": "http://100.110.17.54:8989"
+  },
+      {
+    "icon": "LaptopCode",
+    "name": "sonarr-anime",
+    "link": "http://100.110.17.54:8990"
+  },
+        {
+    "icon": "LaptopCode",
+    "name": "Seerr",
+    "link": "http://100.110.17.54:8080"
+  },
+          {
+    "icon": "LaptopCode",
+    "name": "Emby-Media",
+    "link": "http://100.110.17.54:8585"
+  },
 ]
