@@ -15,17 +15,17 @@
     "link": "https://music.imsyy.top/"
   },
   {
-    "icon": "Compass",
+    "icon": "Home",
     "name": "home",
     "link": "https://home.688689.xyz/"
   },
   {
     "icon": "Camera",
-    "name": "PhotoStamp Pro",
+    "name": "P.S. Pro",
     "link": "https://astar.688689.xyz"
   },
     {
-    "icon": "Book",
+    "icon": "Mailbox",
     "name": "AI Email",
     "link": "https://mail.688689.xyz/dash"
   },
@@ -35,7 +35,7 @@
     "link": "https://hot.imsyy.top"
   },
   {
-    "icon": "LaptopCode",
+    "icon": "fluent",
     "name": "監測",
     "link": "https://cloud.688689.xyz"
   },
@@ -60,7 +60,7 @@
     "link": "http://100.110.17.54:8080"
   },
           {
-    "icon": "LaptopCode",
+    "icon": "fluent",
     "name": "Emby-Media",
     "link": "http://100.110.17.54:8585"
   }
